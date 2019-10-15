@@ -4,6 +4,7 @@
 import gpxpy
 import csv
 import os
+import datetime
 
 path = "abidjan/"
 dirs = os.listdir( path )
@@ -26,6 +27,15 @@ def get_direction(track_name):
         return "B"
     return "?"
 
+def get_is_peak_hour(gpx_time):
+    if gpx_time <datetime.time(hour=8) :
+        if gpx_time > datetime.time(hour=7):
+            return True
+    if gpx_time <datetime.time(hour=19):
+        if gpx_time > datetime.time(hour=18):
+            return True
+    return False
+
 for filename in dirs:
     if not filename.endswith(".gpx"):
         continue
@@ -39,6 +49,9 @@ for filename in dirs:
         elem["direction"] = get_direction(filename)
         elem["gpx"] = filename
 
+        start_time, _ = gpx.get_time_bounds()
+        elem["date"] = start_time.strftime('%Y-%m-%d')
+        elem["heure pointe"] = (get_is_peak_hour(start_time.time()))
 
         arrets = [elem for elem in gpx.waypoints if elem.name in stop_waypoints]
         elem["stop_number"] = len(arrets)
@@ -46,7 +59,9 @@ for filename in dirs:
 
     result.append(elem)
 
-headers = ["line", "direction", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "gpx"]
+result = sorted(result, key=lambda k: k['date'], reverse=True)
+
+headers = ["line", "direction", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "date", "heure pointe", "gpx"]
 with open("abidjan/analyse_gpx.csv", 'w') as myfile:
     wr = csv.DictWriter(myfile, quoting=csv.QUOTE_ALL, fieldnames = headers)
     wr.writeheader()
