@@ -12,12 +12,19 @@ stop_waypoints = ["abribus", "arrêt sans indication","poteau", "vide", "mi-plei
 
 result = []
 
-def get_mode(track_name):
+def get_mode_or_line(track_name):
     if "gbaka" in track_name.lower():
         return "gbaka"
     if "w_r_" in track_name.lower():
         return "woro woro"
     return filename.split('_')[0]
+
+def get_direction(track_name):
+    if "_A_" in track_name:
+        return "A"
+    if "_B_" in track_name:
+        return "B"
+    return "?"
 
 for filename in dirs:
     if not filename.endswith(".gpx"):
@@ -28,9 +35,8 @@ for filename in dirs:
         elem["distance"] = round(gpx.length_2d())
         elem["duration"] = round(gpx.get_duration()/60)
         elem["average_speed"] = round((gpx.length_2d() / 1000) / (gpx.get_duration() / 3600))
-        explode = filename.split('_')
-        elem["mode"] = get_mode(filename)
-        elem["direction"] = explode[1]
+        elem["line"] = get_mode_or_line(filename)
+        elem["direction"] = get_direction(filename)
         elem["gpx"] = filename
 
 
@@ -40,7 +46,7 @@ for filename in dirs:
 
     result.append(elem)
 
-headers = ["mode", "direction", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "gpx"]
+headers = ["line", "direction", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "gpx"]
 with open("abidjan/analyse_gpx.csv", 'w') as myfile:
     wr = csv.DictWriter(myfile, quoting=csv.QUOTE_ALL, fieldnames = headers)
     wr.writeheader()
