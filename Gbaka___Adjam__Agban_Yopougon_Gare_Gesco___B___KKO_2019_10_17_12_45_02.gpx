@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="5.358888333333335" lon="-4.02949">
+		<ele>71.9</ele>
+		<time>2019-10-17T12:45:08Z</time>
+		<name><![CDATA[Adjamé Agban]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.358888333333335" lon="-4.02949">
+		<ele>71.9</ele>
+		<time>2019-10-17T12:45:31Z</time>
+		<name><![CDATA[Départ : Adjamé Agban>Yopougon Gesco - 300frc]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.357488333333333" lon="-4.052575">
+		<ele>21.1</ele>
+		<time>2019-10-17T12:56:18Z</time>
+		<name><![CDATA[plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.357481666666667" lon="-4.0526100000000005">
+		<ele>21.8</ele>
+		<time>2019-10-17T12:56:19Z</time>
+		<name><![CDATA[Garage Maza]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356651666666666" lon="-4.0657049999999995">
+		<ele>57.2</ele>
+		<time>2019-10-17T13:00:27Z</time>
+		<name><![CDATA[plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3566416666666665" lon="-4.065715">
+		<ele>57.1</ele>
+		<time>2019-10-17T13:00:30Z</time>
+		<name><![CDATA[Au feux du Sable]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356143333333334" lon="-4.066936666666667">
+		<ele>60.3</ele>
+		<time>2019-10-17T13:02:32Z</time>
+		<name><![CDATA[plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356143333333334" lon="-4.066951666666667">
+		<ele>60.7</ele>
+		<time>2019-10-17T13:02:33Z</time>
+		<name><![CDATA[Sable]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356021666666667" lon="-4.068478333333333">
+		<ele>62.2</ele>
+		<time>2019-10-17T13:03:34Z</time>
+		<name><![CDATA[plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3560116666666655" lon="-4.0684933333333335">
+		<ele>61.7</ele>
+		<time>2019-10-17T13:03:35Z</time>
+		<name><![CDATA[Auto Ecole]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355878333333334" lon="-4.071676666666666">
+		<ele>58.3</ele>
+		<time>2019-10-17T13:04:52Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355876666666668" lon="-4.071693333333333">
+		<ele>58.5</ele>
+		<time>2019-10-17T13:04:54Z</time>
+		<name><![CDATA[Gabriel Gare]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355810000000001" lon="-4.073653333333334">
+		<ele>71.7</ele>
+		<time>2019-10-17T13:07:36Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355810000000001" lon="-4.073663333333333">
+		<ele>71.8</ele>
+		<time>2019-10-17T13:07:37Z</time>
+		<name><![CDATA[Siporex]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355679999999999" lon="-4.07612">
+		<ele>59.3</ele>
+		<time>2019-10-17T13:10:23Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355676666666667" lon="-4.076128333333333">
+		<ele>59.6</ele>
+		<time>2019-10-17T13:10:24Z</time>
+		<name><![CDATA[Marché Siporex]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355568333333334" lon="-4.079018333333334">
+		<ele>68.8</ele>
+		<time>2019-10-17T13:23:25Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355568333333334" lon="-4.079018333333334">
+		<ele>68.8</ele>
+		<time>2019-10-17T13:23:26Z</time>
+		<name><![CDATA[Carrefour Marché ]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355408333333332" lon="-4.084568333333333">
+		<ele>67.7</ele>
+		<time>2019-10-17T13:30:39Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355405" lon="-4.084581666666667">
+		<ele>68.0</ele>
+		<time>2019-10-17T13:30:40Z</time>
+		<name><![CDATA[Carrefour Zone]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3553" lon="-4.08939">
+		<ele>55.9</ele>
+		<time>2019-10-17T13:33:58Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.355294999999999" lon="-4.0893983333333335">
+		<ele>55.1</ele>
+		<time>2019-10-17T13:33:59Z</time>
+		<name><![CDATA[Carrefour Chu]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356109999999999" lon="-4.091175000000001">
+		<ele>67.2</ele>
+		<time>2019-10-17T13:35:21Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.356113333333334" lon="-4.091176666666667">
+		<ele>67.7</ele>
+		<time>2019-10-17T13:35:22Z</time>
+		<name><![CDATA[Station shell du Chu]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.357605000000001" lon="-4.093145000000001">
+		<ele>70.0</ele>
+		<time>2019-10-17T13:36:45Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.357616666666667" lon="-4.09316">
+		<ele>69.3</ele>
+		<time>2019-10-17T13:36:47Z</time>
+		<name><![CDATA[Cité Mamie Adjoua]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.358711666666666" lon="-4.099766666666667">
+		<ele>70.6</ele>
+		<time>2019-10-17T13:38:55Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.358708333333334" lon="-4.09978">
+		<ele>70.2</ele>
+		<time>2019-10-17T13:38:56Z</time>
+		<name><![CDATA[2ième]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.362886666666666" lon="-4.09859">
+		<ele>88.3</ele>
+		<time>2019-10-17T13:41:02Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.362894999999999" lon="-4.098581666666666">
+		<ele>89.2</ele>
+		<time>2019-10-17T13:41:03Z</time>
+		<name><![CDATA[Boulangerie]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.363758333333334" lon="-4.097295">
+		<ele>81.5</ele>
+		<time>2019-10-17T13:41:42Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.36377" lon="-4.097273333333334">
+		<ele>82.0</ele>
+		<time>2019-10-17T13:41:43Z</time>
+		<name><![CDATA[Au Marché]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.365901666666668" lon="-4.09762">
+		<ele>84.7</ele>
+		<time>2019-10-17T13:43:18Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.365903333333334" lon="-4.097636666666667">
+		<ele>85.0</ele>
+		<time>2019-10-17T13:43:19Z</time>
+		<name><![CDATA[Grand Carrefour]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3673383333333335" lon="-4.10235">
+		<ele>80.7</ele>
+		<time>2019-10-17T13:45:22Z</time>
+		<name><![CDATA[vide]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3673399999999996" lon="-4.10235">
+		<ele>80.6</ele>
+		<time>2019-10-17T13:45:23Z</time>
+		<name><![CDATA[Yopougon Gare Gesco]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3673399999999996" lon="-4.10235">
+		<ele>80.6</ele>
+		<time>2019-10-17T13:45:56Z</time>
+		<name><![CDATA[Arrivée : Yopougon Gare Gesco]]></name>
+		<sat>0</sat>
+	</wpt>
+	<trk>
+		<name><![CDATA[Traces enregistrées avec OSMTracker pour Android™]]></name>
+		<trkseg>
+			<trkpt lat="5.367381666666668" lon="-4.1023266666666665">
+				<ele>78.3</ele>
+				<time>2019-10-17T13:47:06Z</time>
+				<extensions>
+					<speed>0.01235333364456892</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367383333333334" lon="-4.1023266666666665">
+				<ele>78.3</ele>
+				<time>2019-10-17T13:47:07Z</time>
+				<extensions>
+					<speed>0.037060000002384186</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367386666666666" lon="-4.102329999999999">
+				<ele>78.2</ele>
+				<time>2019-10-17T13:47:08Z</time>
+				<extensions>
+					<speed>0.05970777943730354</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367409999999999" lon="-4.102343333333334">
+				<ele>78.3</ele>
+				<time>2019-10-17T13:47:09Z</time>
+				<extensions>
+					<speed>0.20383000373840332</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.36742" lon="-4.102346666666667">
+				<ele>78.6</ele>
+				<time>2019-10-17T13:47:10Z</time>
+				<extensions>
+					<speed>0.26044943928718567</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.36743" lon="-4.102355">
+				<ele>78.5</ele>
+				<time>2019-10-17T13:47:11Z</time>
+				<extensions>
+					<speed>0.21309499442577362</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367426666666668" lon="-4.102358333333333">
+				<ele>78.5</ele>
+				<time>2019-10-17T13:47:12Z</time>
+				<extensions>
+					<speed>0.14000444114208221</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367431666666666" lon="-4.102356666666666">
+				<ele>78.5</ele>
+				<time>2019-10-17T13:47:14Z</time>
+				<extensions>
+					<speed>0.2599347233772278</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367433333333334" lon="-4.102355">
+				<ele>78.6</ele>
+				<time>2019-10-17T13:47:15Z</time>
+				<extensions>
+					<speed>0.0519869439303875</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.367438333333333" lon="-4.102355">
+				<ele>78.6</ele>
+				<time>2019-10-17T13:47:16Z</time>
+				<extensions>
+					<speed>0.07000222057104111</speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
