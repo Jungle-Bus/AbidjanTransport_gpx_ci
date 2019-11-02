@@ -7,7 +7,7 @@ before_install:
   - git clone https://github.com/nlehuby/gpx_snippets
 
 script:
-  - python analyse_tracks.py
+  - travis_wait python analyse_tracks.py
 
 deploy:
   provider: pages
