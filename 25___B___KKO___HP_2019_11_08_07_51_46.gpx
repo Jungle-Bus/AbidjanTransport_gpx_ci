@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<wpt lat="5.288399999999999" lon="-3.9540900000000003">
+		<ele>13.5</ele>
+		<time>2019-11-08T07:52:09Z</time>
+		<name><![CDATA[Koumassi Sigoci]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.288393333333333" lon="-3.954095">
+		<ele>13.4</ele>
+		<time>2019-11-08T07:52:22Z</time>
+		<name><![CDATA[Départ : Koumassi Sigoci>Plateau Gare Sud - 200frc - 50mn]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.285763333333334" lon="-3.954273333333333">
+		<ele>3.6</ele>
+		<time>2019-11-08T07:58:38Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.285763333333334" lon="-3.954273333333333">
+		<ele>3.6</ele>
+		<time>2019-11-08T07:58:38Z</time>
+		<name><![CDATA[Station Vinko Sicogi]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.28469" lon="-3.9586983333333334">
+		<ele>10.8</ele>
+		<time>2019-11-08T08:01:58Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.28469" lon="-3.9586983333333334">
+		<ele>10.8</ele>
+		<time>2019-11-08T08:01:58Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.2839" lon="-3.9621700000000004">
+		<ele>4.9</ele>
+		<time>2019-11-08T08:04:22Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.283893333333333" lon="-3.9621983333333333">
+		<ele>5.5</ele>
+		<time>2019-11-08T08:04:23Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.284961666666667" lon="-3.96424">
+		<ele>-1.2</ele>
+		<time>2019-11-08T08:06:21Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.285043333333334" lon="-3.9641999999999995">
+		<ele>0.3</ele>
+		<time>2019-11-08T08:06:22Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.289023333333334" lon="-3.9671766666666666">
+		<ele>18.4</ele>
+		<time>2019-11-08T08:15:14Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.289023333333334" lon="-3.9671900000000004">
+		<ele>19.0</ele>
+		<time>2019-11-08T08:15:15Z</time>
+		<name><![CDATA[Centre Commercial Koumassi]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.289180000000001" lon="-3.9708550000000002">
+		<ele>10.4</ele>
+		<time>2019-11-08T08:22:32Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.289186666666666" lon="-3.97086">
+		<ele>10.3</ele>
+		<time>2019-11-08T08:22:33Z</time>
+		<name><![CDATA[GRD Carrefour  Koumassi]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.292151666666666" lon="-3.9742466666666663">
+		<ele>13.2</ele>
+		<time>2019-11-08T08:25:07Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.292151666666666" lon="-3.9742466666666663">
+		<ele>13.2</ele>
+		<time>2019-11-08T08:25:08Z</time>
+		<name><![CDATA[Ibis Marcory]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.295979999999999" lon="-3.9810600000000003">
+		<ele>7.7</ele>
+		<time>2019-11-08T08:30:20Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.295983333333334" lon="-3.9810683333333334">
+		<ele>8.1</ele>
+		<time>2019-11-08T08:30:21Z</time>
+		<name><![CDATA[Echangeur Marcory]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.298820000000001" lon="-3.9860800000000003">
+		<ele>16.8</ele>
+		<time>2019-11-08T08:38:57Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.298820000000001" lon="-3.9860800000000003">
+		<ele>16.8</ele>
+		<time>2019-11-08T08:38:57Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.300863333333333" lon="-3.9897100000000005">
+		<ele>15.0</ele>
+		<time>2019-11-08T08:41:26Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.300863333333333" lon="-3.9897100000000005">
+		<ele>15.0</ele>
+		<time>2019-11-08T08:41:27Z</time>
+		<name><![CDATA[Chimtec Grand Carrefour de Marcory]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.299811666666667" lon="-3.9985150000000003">
+		<ele>10.2</ele>
+		<time>2019-11-08T08:49:29Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.299811666666667" lon="-3.9985150000000003">
+		<ele>10.2</ele>
+		<time>2019-11-08T08:49:29Z</time>
+		<name><![CDATA[Collège Moderne Autoroute]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.300108333333332" lon="-4.00248">
+		<ele>12.0</ele>
+		<time>2019-11-08T08:53:44Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.300108333333332" lon="-4.00248">
+		<ele>12.0</ele>
+		<time>2019-11-08T08:53:45Z</time>
+		<name><![CDATA[Gare de Bassam Treichville]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3051966666666655" lon="-4.00439">
+		<ele>6.1</ele>
+		<time>2019-11-08T08:58:31Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.3051966666666655" lon="-4.00439">
+		<ele>6.1</ele>
+		<time>2019-11-08T08:58:31Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.309121666666666" lon="-4.007115">
+		<ele>14.9</ele>
+		<time>2019-11-08T09:07:19Z</time>
+		<name><![CDATA[surchargé]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.309121666666666" lon="-4.007115">
+		<ele>14.9</ele>
+		<time>2019-11-08T09:07:19Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.307451666666666" lon="-4.0117199999999995">
+		<ele>10.9</ele>
+		<time>2019-11-08T09:09:11Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.307446666666667" lon="-4.011733333333334">
+		<ele>10.8</ele>
+		<time>2019-11-08T09:09:12Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.309486666666667" lon="-4.014083333333334">
+		<ele>9.0</ele>
+		<time>2019-11-08T09:11:32Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.309475" lon="-4.01412">
+		<ele>9.9</ele>
+		<time>2019-11-08T09:11:33Z</time>
+		<name><![CDATA[Arrêt de Bus]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.30895" lon="-4.015735">
+		<ele>18.5</ele>
+		<time>2019-11-08T09:12:46Z</time>
+		<name><![CDATA[mi-plein]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.30895" lon="-4.015735">
+		<ele>18.5</ele>
+		<time>2019-11-08T09:12:47Z</time>
+		<name><![CDATA[Station Mobil Avenue Biaka]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.314988333333334" lon="-4.018906666666667">
+		<ele>19.1</ele>
+		<time>2019-11-08T09:17:46Z</time>
+		<name><![CDATA[Gare Sud Plateau]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="5.315029999999999" lon="-4.018745">
+		<ele>15.7</ele>
+		<time>2019-11-08T09:18:15Z</time>
+		<name><![CDATA[Arrivée : Gare Sud Plateau]]></name>
+		<sat>0</sat>
+	</wpt>
+	<trk>
+		<name><![CDATA[Traces enregistrées avec OSMTracker pour Android™]]></name>
+		<trkseg>
+			<trkpt lat="5.315011666666667" lon="-4.018731666666667">
+				<ele>15.1</ele>
+				<time>2019-11-08T09:18:53Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315010000000001" lon="-4.018723333333333">
+				<ele>15.3</ele>
+				<time>2019-11-08T09:18:54Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315010000000001" lon="-4.018718333333334">
+				<ele>15.4</ele>
+				<time>2019-11-08T09:18:55Z</time>
+				<extensions>
+					<speed>0.8559830784797668</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315028333333333" lon="-4.0187083333333335">
+				<ele>15.6</ele>
+				<time>2019-11-08T09:18:56Z</time>
+				<extensions>
+					<speed>0.8009077906608582</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315035" lon="-4.0187116666666665">
+				<ele>15.6</ele>
+				<time>2019-11-08T09:18:57Z</time>
+				<extensions>
+					<speed>0.5605325102806091</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315039999999999" lon="-4.018713333333333">
+				<ele>15.2</ele>
+				<time>2019-11-08T09:18:58Z</time>
+				<extensions>
+					<speed>0.3664822280406952</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315043333333334" lon="-4.018721666666666">
+				<ele>15.1</ele>
+				<time>2019-11-08T09:18:59Z</time>
+				<extensions>
+					<speed>0.09059111028909683</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.3150416666666676" lon="-4.018725">
+				<ele>14.9</ele>
+				<time>2019-11-08T09:19:00Z</time>
+				<extensions>
+					<speed>0.02985388971865177</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315051666666666" lon="-4.01872">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:01Z</time>
+				<extensions>
+					<speed>0.05867833271622658</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315058333333334" lon="-4.018721666666666">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:03Z</time>
+				<extensions>
+					<speed>0.0977972224354744</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315063333333334" lon="-4.018721666666666">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:04Z</time>
+				<extensions>
+					<speed>0.08338499814271927</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315058333333334" lon="-4.01872">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:05Z</time>
+				<extensions>
+					<speed>0.035001110285520554</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.31506" lon="-4.01872">
+				<ele>14.7</ele>
+				<time>2019-11-08T09:19:06Z</time>
+				<extensions>
+					<speed>0.053531110286712646</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315056666666667" lon="-4.018718333333334">
+				<ele>14.8</ele>
+				<time>2019-11-08T09:19:07Z</time>
+				<extensions>
+					<speed>0.10860639065504074</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315058333333334" lon="-4.018721666666666">
+				<ele>14.8</ele>
+				<time>2019-11-08T09:19:08Z</time>
+				<extensions>
+					<speed>0.04375138878822327</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.31506" lon="-4.018721666666666">
+				<ele>14.8</ele>
+				<time>2019-11-08T09:19:09Z</time>
+				<extensions>
+					<speed>0.06382555514574051</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315054999999999" lon="-4.018721666666666">
+				<ele>14.8</ele>
+				<time>2019-11-08T09:19:10Z</time>
+				<extensions>
+					<speed>0.08029666543006897</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.31505" lon="-4.01872">
+				<ele>14.8</ele>
+				<time>2019-11-08T09:19:11Z</time>
+				<extensions>
+					<speed>0.1863294392824173</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.3150416666666676" lon="-4.01872">
+				<ele>14.7</ele>
+				<time>2019-11-08T09:19:12Z</time>
+				<extensions>
+					<speed>0.22699250280857086</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315036666666667" lon="-4.018718333333334">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:13Z</time>
+				<extensions>
+					<speed>0.20691832900047302</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315026666666667" lon="-4.018718333333334">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:14Z</time>
+				<extensions>
+					<speed>0.12868055701255798</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315025000000001" lon="-4.018718333333334">
+				<ele>14.6</ele>
+				<time>2019-11-08T09:19:15Z</time>
+				<extensions>
+					<speed>0.1466958373785019</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.3150200000000005" lon="-4.01872">
+				<ele>14.5</ele>
+				<time>2019-11-08T09:19:16Z</time>
+				<extensions>
+					<speed>0.1652258336544037</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315018333333334" lon="-4.018716666666666">
+				<ele>14.5</ele>
+				<time>2019-11-08T09:19:17Z</time>
+				<extensions>
+					<speed>0.17500555515289307</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="5.315013333333334" lon="-4.018716666666666">
+				<ele>14.5</ele>
+				<time>2019-11-08T09:19:18Z</time>
+				<extensions>
+					<speed>0.18993249535560608</speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
