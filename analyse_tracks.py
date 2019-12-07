@@ -8,6 +8,8 @@ import datetime
 
 from gpx_snippets import collect_tracks_from_osm
 
+def round_duration_to_next5(n):
+    return n + (5 - n) % 5
 
 def get_mode_or_line(track_name):
     if "gbaka" in track_name.lower():
@@ -48,7 +50,8 @@ if __name__ == '__main__':
         with open(path + filename, "r") as gpx_file:
             gpx = gpxpy.parse(gpx_file)
             elem["distance"] = round(gpx.length_2d())
-            elem["duration"] = round(gpx.get_duration()/60)
+            elem["raw_duration"] = round(gpx.get_duration()/60)
+            elem["duration"] = round_duration_to_next5(elem["raw_duration"])
             elem["average_speed"] = round((gpx.length_2d() / 1000) / (gpx.get_duration() / 3600))
             elem["line"] = get_mode_or_line(filename)
             elem["direction"] = get_direction(filename)
@@ -65,7 +68,7 @@ if __name__ == '__main__':
 
     result = sorted(result, key=lambda k: k['date'], reverse=True)
 
-    headers = ["line", "direction", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "date", "user", "heure pointe", "name", "trace_id"]
+    headers = ["line", "direction", "raw_duration", "duration", "distance", "average_speed", "stop_number" ,"other_meta_number", "date", "user", "heure pointe", "name", "trace_id"]
     result_to_persist = [ dict((k, el.get(k, None)) for k in headers) for el in result]
     with open("abidjan/analyse_gpx.csv", 'w') as myfile:
         wr = csv.DictWriter(myfile, quoting=csv.QUOTE_ALL, fieldnames = headers)
